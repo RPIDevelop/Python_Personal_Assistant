@@ -19,6 +19,8 @@ Open the geany code editor (Type CODE)
 Open the Chromium browser (Type INTERNET)
 Open the file browser (Type FILES)
 Show the current time (Type TIME)
+Open the terminal (Type TERMINAL)
+Open the media browser (Type MEDIA)
 
 After you tell the assistant what to do, and after you are done using one of the listed items, the assistant will ask
 you if it can do something else for you. Either respond with YES or NO. If you responded YES, the assistant will ask you
@@ -26,6 +28,6 @@ what you want to do again. If NO then it will say goodbye and the program will s
 
 
 NOTICE:
-As far as I'm aware, for the CODE, INTERNET, AND FILES to work, you will need to have the default Raspberry Pi applications. But feel free to change the path locations if you want the assistant to open something else.
+As far as I'm aware, for the CODE, INTERNET, TERMINAL, MEDIA, AND FILES to work, you will need to have the default Raspberry Pi applications. But feel free to change the path locations if you want the assistant to open something else.
 
 
